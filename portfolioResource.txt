@@ -1,0 +1,5 @@
+Using GitHub to create a portfolio can help stand out with a a pool of job applicants.
+As stated in the lesson, being able to prove a certain skill rather than just adding a keyword on a resume can make a world of difference.
+Having proof and examples of projects through GitHub can also help show how long you have been using GitHub with the activity feature.
+Using GitHub pages to create a website from any GitHub repository to projects could also be used as part of a GitHub portfolio.
+ 
