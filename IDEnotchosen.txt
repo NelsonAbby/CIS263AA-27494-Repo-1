@@ -1,0 +1,7 @@
+When deciding which IDE to use, I first went through the websites listen from lesson 1.
+The first website I selected, had listed VSCode and BlueJ. 
+My first instinct is to use VSCode since I am familiar with using VSCode, Git, and Github within VSCode.
+After clicking through the multiple websites, I noticed only 1 of the 5 websites had VSCode listed as an IDE.
+I saw BlueJ somewhere on every other list, so I proceeded to install BlueJ because it was open source and beginner-friendly interface.
+I continued going through lesson 1 and saw VSCode listed directly in the lesson.
+While BlueJ is still installed on my machine, I decided to go with VSCode as my IDE for this course.

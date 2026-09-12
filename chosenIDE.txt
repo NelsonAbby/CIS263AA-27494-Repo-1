@@ -1,0 +1,4 @@
+VSCode is my preferred IDE that I chose for this course.
+I chose VSCode as my IDE for this course because I have experience using it as a code editor.
+I also am familiar with using GitHub within VSCode.
+I am excited to see what Java 2 has to offer and learning more about VSCode as a IDE!
